@@ -1,7 +1,7 @@
 # [PoS simulator](http://MarcoPoveromo.github.io/PoS-Staking-Simulator/docs/PoS___Tesi_magistrale.pdf)
 
 ## Papers
-- [📄 Show Paper](http://MarcoPoveromo.github.io/PoS-Staking-Simulator/docs/Sintesi_tesi_magistrale.pdf)
+- [📄 Show Summary](http://MarcoPoveromo.github.io/PoS-Staking-Simulator/docs/Sintesi_tesi_magistrale.pdf)
 - [🕮 Show Thesis](http://MarcoPoveromo.github.io/PoS-Staking-Simulator/docs/PoS___Tesi_magistrale.pdf)
 
 ## Table Of Content
