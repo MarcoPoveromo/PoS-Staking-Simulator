@@ -1,4 +1,16 @@
-# PoS simulator
+# [PoS simulator](http://MarcoPoveromo.github.io/PoS-Staking-Simulator/docs/PoS___Tesi_magistrale.pdf)
+
+## Table Of Content
+[📄 Show Paper](http://MarcoPoveromo.github.io/PoS-Staking-Simulator/docs/Sintesi_tesi_magistrale.pdf)
+[📄 Show Thesis](http://MarcoPoveromo.github.io/PoS-Staking-Simulator/docs/PoS___Tesi_magistrale.pdf)
+
+## Table Of Content
+
+- [Installation and setup](#setup)
+- [Run a model](#run)
+- [Graphs](#graphs)
+- [License](#license)
+- 
 This python project is an **agent-based simulator**
 of variants of proof-of-stake (PoS) consensus algorithms that has been developed by exploiting
 parallel computation techniques for better estimates and performance.
@@ -8,12 +20,7 @@ This project take part in my computer science thesis, where the goal is
 identify pos variations that are sustainable in the long term, ensuring a certain level of democracy in the system and a fair distribution of wealth, using metrics
 based on the **Gini coefficient** and **Lorenz curves**.
 
-## Table Of Content
 
-- [Installation and setup](#setup)
-- [Run a model](#run)
-- [Graphs](#graphs)
-- [License](#license)
 
 ## Installation and setup
 The simulator is based on python3 (https://www.python.org/downloads/).
